@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom-war.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="RrjChina">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/../../RrjChina" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/buildConfig/androidTest/debug" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/buildConfig/debug" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/buildConfig/release" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/r/androidTest/debug" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/r/debug" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/generated/source/r/release" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/dependencies/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_0/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_1/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_2/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_3/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_4/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_5/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_6/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_7/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_8/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/instant-run-support/debug/slice_9/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/manifests/full/release/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/build/intermediates/manifests/instant-run/debug/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/src/androidTest/java" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/src/main/gen" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/src/main/java" />
+        <root url="file://$PROJECT_DIR$/../../RrjChina/app/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
